@@ -2,8 +2,8 @@
 title: vol1.活在这珍贵的人间，太阳强烈，水波温柔
 tags: [IT/架构, 产品/方法论, 事业/团队管理, 文学/短篇小说]
 date: 2023-09-24
-banner_img: /img/banner/newsletter-vol1.jpg
-index_img: /img/banner/newsletter-vol1.jpg
+banner_img: https://notesimgs.oss-cn-shanghai.aliyuncs.com/img/newsletter-vol1.jpg
+index_img: https://notesimgs.oss-cn-shanghai.aliyuncs.com/img/newsletter-vol1.jpg
 ---
 
 ## 卷首语

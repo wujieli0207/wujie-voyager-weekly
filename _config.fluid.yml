@@ -448,7 +448,7 @@ footer:
 index:
   # 首页 Banner 头图，可以是相对路径或绝对路径，以下相同
   # Path of Banner image, can be a relative path or an absolute path, the same on other pages
-  banner_img: /img/home_banner.jpg
+  banner_img: https://notesimgs.oss-cn-shanghai.aliyuncs.com/img/home_banner.jpg
 
   # 头图高度，屏幕百分比
   # Height ratio of banner image
@@ -883,7 +883,7 @@ discuss:
 # Archive Page
 #---------------------------
 archive:
-  banner_img: /img/home_banner.jpg
+  banner_img: https://notesimgs.oss-cn-shanghai.aliyuncs.com/img/home_banner.jpg
   banner_img_height: 50
   banner_mask_alpha: 0.5
 
@@ -923,7 +923,7 @@ category:
 #---------------------------
 tag:
   enable: true
-  banner_img: /img/home_banner.jpg
+  banner_img: https://notesimgs.oss-cn-shanghai.aliyuncs.com/img/home_banner.jpg
   banner_img_height: 50
   banner_mask_alpha: 0.5
   tagcloud:
@@ -940,7 +940,7 @@ tag:
 #---------------------------
 about:
   enable: true
-  banner_img: /img/home_banner.jpg
+  banner_img: https://notesimgs.oss-cn-shanghai.aliyuncs.com/img/home_banner.jpg
   banner_img_height: 50
   banner_mask_alpha: 0.3
   avatar: /img/logo.jpg
