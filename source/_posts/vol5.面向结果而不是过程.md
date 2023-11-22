@@ -29,7 +29,7 @@ index_img: https://notesimgs.oss-cn-shanghai.aliyuncs.com/img/newsletter-vol5.jp
 - 分子（Molecules）：不同原子的组合为一个特定的功能模块，比如 按钮 + 输入框 组成一个订阅功能
 - 生物体（Organisms）：不同分子的组合为一个特定的板块，比如 logo 功能 + 订阅功能组成一个 Header 板块
 - 模板（Templates）：不同生物体组合为一个模板，比如 Header + Content + Footer 组成一个标准的页面模板
-- Pages（页面）：根据模板最终实现的结果
+- 页面（Pages）：根据模板最终实现的结果
 
 原子设计的优点
 
