@@ -3,11 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 旅行者计划
-subtitle: 旅行者计划
-description: 记录自己的阅读、思考，持续不断探索，持续不断积累
-keywords: it product design
-author: Mr.wujieli
+title: 旅行者周刊
+subtitle: 旅行者周刊
+description: 记录自己的阅读、思考，分享对于产品、设计、商业、个人成长、独立开发的思考
+keywords:
+  ['博客', '周刊', 'weekly', '产品', '设计', '商业', '个人成长', '独立开发']
+author: 两万焦
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
